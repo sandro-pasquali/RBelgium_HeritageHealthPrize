@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+/Data/Claims.csv
+/Data/DaysInHospital_Y2.csv
+/Data/DaysInHospital_Y3.csv
+/Data/DrugCount.csv
+/Data/LabCount.csv
+/Data/Lookup PrimaryConditionGroup.csv
+/Data/Lookup ProcedureGroup.csv
+/Data/Members.csv
+/Data/Target.csv
+
+
