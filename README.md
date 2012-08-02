@@ -6,10 +6,8 @@ The R code is organised in the following folders
 
   - Data (data downloaded from https://www.heritagehealthprize.com/c/hhp/download/HHP_release3.zip)
   - Scoring (a folder containing the scores uploaded to the)
-  - Working (reading of SQL data through RODBC)
+  - Working (working folder with R scripts functionally grouped around some topic)
   - yourusername (folder used by you only e.g folder with name jan = folder used by Jan only)
-
-An example can be found at http://www.bnosac.be/blog/19-get-your-large-sql-data-in-ff-swiftly
 
 Data
 -----------
